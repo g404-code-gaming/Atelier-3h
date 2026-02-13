@@ -32,8 +32,8 @@ Même si une image est grande, la zone de collision peut être différente :
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/33_Masque.png" alt="Collision" width="600"/>
 
-4️⃣ Ajuste le masque :
-- Aligne les **deux points du haut** exactement au niveau supérieur de la plateforme
+4️⃣ Ajuste le masque à gauche en bougeant les points orange :
+- Aligne les **deux points orange du haut** exactement au niveau supérieur de la plateforme
 - Laisse le masque bien ajusté à la surface sur laquelle Dino doit marcher
 
 *Avant la modification*  
