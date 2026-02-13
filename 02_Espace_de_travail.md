@@ -42,11 +42,8 @@ Tu peux modifier :
 - 📍 Position (X / Y)
 - 📏 Taille
 - 🔄 Rotation
-- 🎨 Opacité / visibilité
+- 🎨 Calques
 - 🏷️ Variables
-- 🔧 Comportements (plateforme, physique, etc.)
-
-⚠️ Tant que rien n’est sélectionné, le panneau reste vide.
 
 👉 C’est un peu comme les paramètres d’un personnage… mais côté développeur 😄
 
@@ -61,15 +58,13 @@ C’est ici que tu crées et gères les éléments de ton jeu :
 - 🎨 Sprites
 - 📝 Textes
 - 💥 Boutons
-- 🌟 Particules
 - etc.
 
 En cliquant sur **“Ajouter un objet”**, tu peux créer :
 - Un sprite (image animée)
-- Un objet texte
+- Un objet préfabriqué
 - Un bouton
-- Un tilemap
-- Une forme
+- Un objet texte
 - etc.
 
 ### ⚠️ Important
@@ -81,15 +76,6 @@ Ils ne sont pas encore visibles dans la scène tant que tu ne les glisses pas au
 Donc :
 - À droite → tu fabriques tes briques
 - Au milieu → tu construis avec
-
----
-
-## 🔁 Comment tout fonctionne ensemble ?
-
-1. Tu crées un objet à droite
-2. Tu le glisses dans la scène (au milieu)
-3. Tu ajustes ses réglages à gauche
-4. Tu passes dans l’onglet **Événements** pour lui donner un comportement (mouvement, collisions, etc.)
 
 ---
 
