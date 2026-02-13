@@ -157,7 +157,17 @@ Ajouter une seconde action :
 
 ---
 
+### Sauvegarder
+
+Pensez à sauvegarder votre projet en cliquant sur la **disquette**
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/19_Sauvegarder.png" alt="Évènement" width="600"/>
+
+---
+
 # ✅ Résultat
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/62_Scene.png" alt="Évènement" width="600"/>
 
 - Dino marche vers la gauche
 - Dino marche vers la droite
