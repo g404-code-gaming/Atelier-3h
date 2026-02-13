@@ -153,11 +153,11 @@ Ajouter une seconde action :
 
 👉 Quand on relâche les touches, Dino arrête de marcher et revient en animation d’attente.
 
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/61_Action.png" alt="Évènement" width="600"/>
+
 ---
 
 # ✅ Résultat
-
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/61_Action.png" alt="Évènement" width="600"/>
 
 - Dino marche vers la gauche
 - Dino marche vers la droite
