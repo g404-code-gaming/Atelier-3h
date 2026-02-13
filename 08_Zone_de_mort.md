@@ -18,11 +18,11 @@ Pour éviter que Dino tombe dans le vide sans conséquence, on va créer une **z
 
 4️⃣ Nomme l’objet : `Mort`  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/97_Mort.png" alt="Mort" width="700"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/96_Mort.png" alt="Mort" width="700"/>
 
 5️⃣ Clique sur **Créer avec Piskel** (éditeur intégré)  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/96_Piskel.png" alt="Mort" width="700"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/97_Piskel.png" alt="Mort" width="700"/>
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/98_Interface_Piskel.png" alt="Mort" width="700"/>
 
