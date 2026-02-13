@@ -22,6 +22,16 @@ Maintenant qu’on maîtrise les bases, on va créer un **vrai niveau**.
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/63_Niveau.png" alt="Niveau" width="900"/>
 
+## ？ Que faire si votre personnage passe derrière le décor ?
+
+Si votre **Dino** passe derrière le décor dans une zone de votre niveau, il faudra changer sa position sur l'axe *Z* dans les propriétés de l'objet sur la scène à droite : 
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/109_Dino_Z.png" alt="Niveau" width="700"/>
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/110_Dino_Z.png" alt="Niveau" width="700"/>
+
+N'hésitez pas à mettre un très grand chiffre pour ne plus rencontrer ce souci.
+
 ---
 
 # 🍗 Ajouter un objet à collectionner : Chicken Leg
