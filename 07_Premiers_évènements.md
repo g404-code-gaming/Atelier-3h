@@ -72,7 +72,7 @@ En face de notre première condition, nous allons cliquer sur **Ajouter une acti
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/47_Action_Dino.png" alt="Évènement" width="600"/>
 
 *Au centre, nous cliquons sur Animation (par nom)*  
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/48_Animation.png" alt="Évènement" width="600"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/48_Animation_nom.png" alt="Évènement" width="600"/>
 
 *À droite, nous cliquons sur la liste d'animation*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/49_Liste.png" alt="Évènement" width="600"/>
@@ -83,7 +83,7 @@ En face de notre première condition, nous allons cliquer sur **Ajouter une acti
 *On valide avec Ok*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/52_Ok.png" alt="Évènement" width="600"/>
 
-Nous obtenons notre **action** :
+Nous obtenons notre **action** :  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/53_Action.png" alt="Évènement" width="600"/>
 
 Ajouter une seconde action :
