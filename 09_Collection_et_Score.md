@@ -74,17 +74,41 @@ Crée un nouvel événement :
 
 ## ➕ Ajouter un objet Texte
 
-1️⃣ Ajouter un nouvel objet → **Texte**
-2️⃣ Nommer l’objet : `ScoreText`
-3️⃣ Le placer en haut à gauche de la scène
+1️⃣ Ajoute un nouvel objet → **Texte**  
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/79_Nouvel_objet.png" alt="Score" width="700"/>
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/80_Texte.png" alt="Score" width="700"/>
+
+2️⃣ Nommerl’objet : `ScoreText`, met la taille de police à 40 et **Score:** en valeur  
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/81_Options_texte.png" alt="Score" width="700"/>
+
+3️⃣ Place le en haut à gauche de la scène  
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/82_Placement_texte.png" alt="Score" width="700"/>
 
 ---
 
 ## 📌 Le mettre sur un calque UI
 
-1️⃣ Créer un nouveau **calque**
-2️⃣ Nommer le calque : `UI`
-3️⃣ Placer `ScoreText` sur ce calque
+1️⃣ Crée un nouveau **calque** en cliquant sur l'icône `Calque` en haut à droite  
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/83_Icone_calques.png" alt="Score" width="400"/>
+
+2️⃣ Clique sur **+** et nomme le calque : `UI`  
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/84_Ajout_calque.png" alt="Score" width="700"/>
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/85_UI.png" alt="Score" width="700"/>
+
+3️⃣ Place `ScoreText` sur ce calque à gauche dans les propriétés de l'objet sur la scène 
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/86_Selection_texte.png" alt="Score" width="700"/>
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/87_Choix_calque.png" alt="Score" width="700"/>
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/88_Calque_UI.png" alt="Score" width="700"/>
 
 👉 Un calque UI ne bouge pas avec la caméra.
 
@@ -92,15 +116,24 @@ Crée un nouvel événement :
 
 ## 🔄 Mettre le texte à jour dynamiquement
 
-Créer un événement :
+Crée un événement :
 
 ### ➜ Condition
-- Toujours (aucune condition)
+- Aucune condition - ce qui signifie que l'évènement a toujours lieu
 
 ### ➜ Action
-- Modifier le texte de ScoreText :
-  
-"Score : " + ToString(Score)
+- Clique sur l'objet `Texte` à gauche puis sur l'action `Texte`au milieu et modifie le texte de *ScoreText* et met la formule suivante :
 
+```js  
+"Score : " + ToString(Score)
+```
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/89_Selection_objet_texte.png" alt="Score" width="700"/>
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/90_Action_texte.png" alt="Score" width="700"/>
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/91_Option_texte.png" alt="Score" width="700"/>
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/92_Copie_code.png" alt="Score" width="700"/>
 
 👉 Le score s’affiche en temps réel.
