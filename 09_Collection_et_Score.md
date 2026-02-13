@@ -66,6 +66,8 @@ Crée un nouvel événement :
 
 👉 À chaque contact, on gagne un point et l’objet disparaît.
 
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/78_Code.png" alt="Score" width="700"/>
+
 ---
 
 # 🖥️ Afficher le score (UI fixe)
