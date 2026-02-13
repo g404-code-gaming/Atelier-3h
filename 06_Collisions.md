@@ -37,10 +37,10 @@ Même si une image est grande, la zone de collision peut être différente :
 - Laisse le masque bien ajusté à la surface sur laquelle Dino doit marcher
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/34_Depart.png" alt="Collision" width="600"/>
-*Avant la modification*
+*Avant la modification*  
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/35_Final.png" alt="Collision" width="600"/>
-*Après la modification*
+*Après la modification*  
 
 👉 L’objectif est que le haut du masque corresponde parfaitement au sol visible.
 
@@ -78,7 +78,7 @@ Clique sur **"Aperçu"** (bouton en haut de l’écran).
 
 ## ✅ Résultat
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/37_Scene.png" alt="Collision" width="400"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/37_Scene.png" alt="Collision" width="800"/>
 
 - Dino marche proprement sur les plateformes
 - Les collisions sont précises
