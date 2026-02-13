@@ -1,5 +1,5 @@
 
-![Créer le projet](https://sebastien-devos.fr/img/codegaming/atelier-decouverte/01_Creer_le_projet.png "Créer le projet")
+![Créer le projet](https://sebastien-devos.fr/img/codegaming/atelier-decouverte/01_Creer_le_projet.png "Créer le projet"){width=400}
 
 ![Projet vide](https://sebastien-devos.fr/img/codegaming/atelier-decouverte/02_Projet_vide.png "Projet vide")
 
