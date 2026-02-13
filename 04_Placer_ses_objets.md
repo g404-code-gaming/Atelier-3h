@@ -13,8 +13,6 @@ On va maintenant donner un peu de vie à notre niveau ✨
 3️⃣ Dans la barre de recherche, tape :  
    **"background colored"**
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/13_Background_colored.png" alt="Background" width="700"/>
-
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/14_Choix_decor.png" alt="Background" width="700"/>
 
 4️⃣ Ajoute les **deux décors de prairie**
