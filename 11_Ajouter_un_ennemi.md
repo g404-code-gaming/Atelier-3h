@@ -27,7 +27,7 @@ Crée un événement :
 - Seconde condition : **Dino** doit être sur le *sol*
 - Pour cela, ajoute une seconde condition, clique sur Dino est trouve l'action **Est sur le sol**  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/112_Sol.png" alt="Ennemi" width="400"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/113_Sol.png" alt="Ennemi" width="400"/>
 
 #### ➜ Actions
 Pour les actions à ajouter, tu commences à les connaître. Il faut:  
