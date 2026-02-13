@@ -8,9 +8,9 @@ On va maintenant ajouter les premiers éléments de ton jeu 🎮
 
 1️⃣ Clique sur **"Ajouter un nouvel objet"** (dans le panneau de droite)
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/05_Nouvel_objet.png" alt="Nouvel objet" width="700"/>
-
 2️⃣ Choisis la catégorie **Personnages**
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/05_Nouvel_objet.png" alt="Nouvel objet" width="700"/>
 
 3️⃣ Dans la barre de recherche, tape **"Dino"**
 
@@ -20,7 +20,7 @@ On va maintenant ajouter les premiers éléments de ton jeu 🎮
 
 5️⃣ Clique sur **"Ajouter à la scène"**
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/07_Nouvel_objet.png" alt="Nouvel objet" width="700"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/07_Ajouter_scene.png" alt="Nouvel objet" width="700"/>
 
 👉 Le personnage est visible dans la liste des objets à droite.
 
