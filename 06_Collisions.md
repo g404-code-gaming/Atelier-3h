@@ -84,4 +84,4 @@ Clique sur **"Aperçu"** (bouton en haut de l’écran).
 - Les collisions sont précises
 - Le jeu commence à ressembler à un vrai jeu de plateforme 🎉
 
-Prochaine étape : ajouter des éléments interactifs ou des ennemis ? 🔥
+Prochaine étape : gérer le **déplacement** de notre personnage *Dino* 🔥
