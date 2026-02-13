@@ -28,7 +28,7 @@
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/70_Valeur_0.png" alt="Score" width="700"/>
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/71_Initialisation.png" alt="Score" width="700"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/71_Initialisation.png" alt="Score" width="900"/>
 
 ---
 
@@ -66,7 +66,7 @@ Crée un nouvel événement :
 
 👉 À chaque contact, on gagne un point et l’objet disparaît.
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/78_Code.png" alt="Score" width="700"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/78_Code.png" alt="Score" width="900"/>
 
 ---
 
