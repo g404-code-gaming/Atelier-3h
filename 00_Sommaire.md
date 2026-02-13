@@ -1,7 +1,7 @@
 # Atelier-3h
 Les bases de GDevelop pour les ateliers distanciel de 3h  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/37_Scene.png" alt="Scene" width="700"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/Sommaire.png" alt="Scene" width="700"/>
 
 ## Créer le projet
 
