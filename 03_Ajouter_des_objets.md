@@ -8,7 +8,7 @@ On va maintenant ajouter les premiers éléments de ton jeu 🎮
 
 1️⃣ Clique sur **"Ajouter un nouvel objet"** (dans le panneau de droite)
 
-2️⃣ Dans le **Magasin de Ressources**, choisis la catégorie **Personnages**
+2️⃣ Dans le **Magasin de ressources**, choisis la catégorie **Personnages**
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/05_Nouvel_objet.png" alt="Nouvel objet" width="700"/>
 
@@ -40,7 +40,7 @@ On va maintenant ajouter le sol pour que Dino puisse marcher dessus.
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/09_Ajout_plateformes.png" alt="Ajout de plateformes" width="700"/>
 
-3️⃣ Sélectionne le pack contenant les plateformes : ** GDevelop Platformer 15 Ressources**
+3️⃣ Sélectionne le pack contenant les plateformes : **GDevelop Platformer 15 Ressources**
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/10_Plateformes.png" alt="Plateformes" width="700"/>
 
