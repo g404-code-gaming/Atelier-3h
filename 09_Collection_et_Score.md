@@ -106,6 +106,8 @@ Crée un nouvel événement :
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/86_Selection_texte.png" alt="Score" width="700"/>
 
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/88_V2.png" alt="Score" width="700"/>
+
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/87_Choix_calque.png" alt="Score" width="700"/>
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/88_Calque_UI.png" alt="Score" width="700"/>
@@ -137,7 +139,7 @@ Crée un événement :
 *A droite, de nouvelles options appraissent*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/91_Option_texte.png" alt="Score" width="700"/>
 
-*Dans la champ valeur met la formule "Score: " + ToString(Score)*  
+*Dans la champ texte met la formule "Score: " + ToString(Score)*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/92_Copie_code.png" alt="Score" width="700"/>
 
 👉 Le score s’affiche en temps réel.
