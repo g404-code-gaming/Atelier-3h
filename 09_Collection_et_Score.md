@@ -106,7 +106,7 @@ Crée un nouvel événement :
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/86_Selection_texte.png" alt="Score" width="700"/>
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/88_V2.png" alt="Score" width="700"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/88_v2.png" alt="Score" width="700"/>
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/87_Choix_calque.png" alt="Score" width="700"/>
 
