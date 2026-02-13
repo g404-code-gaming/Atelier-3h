@@ -73,23 +73,21 @@ Ouvre l’onglet **Événements**.
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/103_Objet_mort.png" alt="Mort" width="700"/>
 
 ### ➜ Actions
-- Clique à gauche sur **Dino** et au mileu sur **Supprimer** puis Ok  
+- Ajoute une première action : clique à gauche sur **Dino** et au milieu sur **Supprimer** puis Ok  
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/77_Supprimer.png" alt="Mort" width="700"/>
 
-- Seconde action: dans la recherche à gauche, tape **Attendre** et entre à droite **1 seconde**  
+- Ajoute une seconde action: dans la recherche à gauche, tape **Attendre** et entre à droite **1 seconde**  
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/106_Attendre.png" alt="Mort" width="700"/>
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/107_Une_seconde.png" alt="Mort" width="700"/>
 
-- Troisième action : Relancer la scène **Scène sans titre** dans *Autres Actions* puis *Scène*  
+- Enfin ajoute une troisième action : relancer la scène **Scène sans titre** dans *Autres Actions* puis *Scène*  
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/104_Changer_scene.png" alt="Mort" width="700"/>
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/105_Scene_sans_titre.png" alt="Mort" width="700"/>
-
-
 
 ---
 
