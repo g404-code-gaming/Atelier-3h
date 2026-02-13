@@ -1,5 +1,5 @@
 
-<img src="[drawing.jpg](https://sebastien-devos.fr/img/codegaming/atelier-decouverte/01_Creer_le_projet.png)" alt="Créer le projet" width="400"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/01_Creer_le_projet.png" alt="Créer le projet" width="400"/>
 
 ![Créer le projet](https://sebastien-devos.fr/img/codegaming/atelier-decouverte/01_Creer_le_projet.png "Créer le projet")
 
