@@ -30,7 +30,7 @@ Exemples :
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/21_Onglet_comprtements.png" alt="Comportements" width="700"/>
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/22_Ajout_comprtement.png" alt="Comportements" width="700"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/22_Ajout_comportement.png" alt="Comportements" width="700"/>
 
 ### ➜ Ajouter le comportement **Personnage plateforme**
 
@@ -86,7 +86,7 @@ Pour chaque plateforme :
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/29_Comportement_plateforme.png" alt="Comportements" width="700"/>
 
-4️⃣ Valide  
+4️⃣ Valide avec **Appliquer**
 
 Répète l’opération pour toutes les plateformes.
 
@@ -120,7 +120,7 @@ Répète l’opération pour toutes les plateformes.
 
 Clique sur **"Aperçu"** (bouton en haut de l’écran).
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/31_Apercu.png" alt="Comportements" width="700"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/31_Apercu.png" alt="Comportements" width="500"/>
 
 🎮 Teste ton jeu :
 
