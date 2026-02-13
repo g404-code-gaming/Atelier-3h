@@ -100,9 +100,10 @@ Ouvre l’onglet **Événements**.
 - Le jeu attend 1 seconde
 - La scène redémarre
 
-🎉 Ton niveau est maintenant sécurisé !  
-N'oublie pas de sauvegarder !
+🎉 Ton niveau est maintenant sécurisé ! 
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/19_Sauvegarder.png" alt="Mort" width="700"/>
+N'oublie pas de **sauvegarder** !
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/19_Sauvegarder.png" alt="Mort" width="400"/>
 
 
