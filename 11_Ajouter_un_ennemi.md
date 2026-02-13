@@ -25,7 +25,7 @@ Crée un événement :
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/112_Collision_zombie.png" alt="Ennemi" width="900"/>
 
 - Seconde condition : **Dino** doit être sur le *sol*
-- Pour cela, ajoute une seconde condition, clique sur Dino est trouve l'action **Est sur le sol**  
+- Pour cela, ajoute une seconde condition, clique sur Dino et trouve l'action **Est sur le sol**  
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/113_Sol.png" alt="Ennemi" width="400"/>
 
@@ -56,10 +56,8 @@ Ajoute comme seconde condition : *Dino* est **En train de tomber**
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/116_Tomber.png" alt="Ennemi" width="500"/>
 
 #### ➜ Action
-- Supprimer *Zombie Boy*  
+- Supprime *Zombie Boy*  
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/117_Code_tomber.png" alt="Ennemi" width="900"/>
 
 👉 Comme dans un vrai jeu de plateforme 😉
-
----
