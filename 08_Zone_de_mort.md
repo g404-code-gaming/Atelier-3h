@@ -101,11 +101,3 @@ Ouvre l’onglet **Événements**.
 - La scène redémarre
 
 🎉 Ton niveau est maintenant sécurisé !
-
-Tu as :
-- Un système de score
-- Des ennemis
-- Une porte de fin
-- Une zone de mort
-
-Ton jeu de plateforme est officiellement complet 🔥
