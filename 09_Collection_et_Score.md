@@ -144,4 +144,4 @@ Crée un événement :
 
 👉 Le score s’affiche en temps réel.  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/94_Score_temps_reel.png" alt="Score" width="700"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/94_Score_temps_reel.png" alt="Score" width="800"/>
