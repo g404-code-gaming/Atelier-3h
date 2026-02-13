@@ -4,7 +4,7 @@ Maintenant qu’on maîtrise les bases, on va créer un **vrai niveau**.
 
 ## 🎨 Ajouter plus de décors
 
-1️⃣ Ajoute plusieurs backgrounds **background colored**  à gauche et à droite de votre niveau de base.
+1️⃣ Ajoute plusieurs backgrounds **background colored**  à gauche et à droite de votre niveau de base.  
 2️⃣ Place-les côte à côte pour donner une impression de continuité.
 
 ---
