@@ -83,7 +83,7 @@ Ouvre l’onglet **Événements**.
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/107_Une_seconde.png" alt="Mort" width="700"/>
 
-- Enfin ajoute une troisième action : relancer la scène **Scène sans titre** dans *Autres Actions* puis *Scène*  
+- Enfin ajoute une troisième action : changer la scène dans *Autres Actions* puis *Scène* et choisir **Scène sans titre** à droite  
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/104_Changer_scene.png" alt="Mort" width="700"/>
 
