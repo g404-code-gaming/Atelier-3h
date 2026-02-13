@@ -13,16 +13,18 @@
 - **Au début de la scène**
   - Action → Modifier une variable de scène dans **Autres actions**
   - Clique à gauche sur **Variables** puis *Changer la valeur de la variable*
-  - Clique à droite sur **+ Ajouter ou modifier des variables**
-  - Nom à entrer : `Score`
-  - Valeur à définir : `0`
-  - Clique sur Ok ou Appliquer
-
+ 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/67_Changer_variable.png" alt="Score" width="700"/>
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/68_Ajout_variable.png" alt="Score" width="700"/>
 
+  - Clique à droite sur **+ Ajouter ou modifier des variables**
+ 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/69_Score.png" alt="Score" width="700"/>
+
+  - Nom à entrer : `Score`
+  - Valeur à définir : `0`
+  - Clique sur Ok ou Appliquer
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/70_Valeur_0.png" alt="Score" width="700"/>
 
