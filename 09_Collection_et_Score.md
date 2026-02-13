@@ -142,4 +142,6 @@ Crée un événement :
 *Dans la champ texte met la formule "Score: " + ToString(Score)*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/92_Copie_code.png" alt="Score" width="700"/>
 
-👉 Le score s’affiche en temps réel.
+👉 Le score s’affiche en temps réel.  
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/94_Score_temps_reel.png" alt="Score" width="700"/>
