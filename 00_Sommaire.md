@@ -40,3 +40,7 @@ Les bases de GDevelop pour les ateliers distanciel de 3h
 ## Gestion du score
 
 <a href="https://github.com/g404-code-gaming/Atelier-3h/blob/main/10_Collection_et_Score.md" target="_blank">Voir les consignes</a>
+
+## Gestion du score
+
+<a href="https://github.com/g404-code-gaming/Atelier-3h/blob/main/11_Ajouter_un_ennemi.md" target="_blank">Voir les consignes</a>
