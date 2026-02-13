@@ -36,8 +36,7 @@ On va maintenant donner un peu de vie à notre niveau ✨
 
 ## 🧱 Organiser les plateformes
 
-- Déplace les plateformes déjà ajoutées
-- Dispose-les de manière à créer un **début de parcours** :
+- Dispose maintenant tes plateformes de manière à créer un **début de parcours** :
   - Une plateforme principale (le sol)
   - Trois ou quatre plateformes un peu plus hautes
   - Un écart pour créer un premier saut
