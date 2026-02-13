@@ -60,3 +60,11 @@ Tu as maintenant :
 - Dino prêt à commencer l’aventure
 
 La scène commence à ressembler à un vrai jeu 🔥
+
+---
+
+## Sauvegarder
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/19_Sauvegarder.png" alt="Placement des objets" width="400"/>
+
+Clique maintenant sur l'icône en forme de **disquette** en haut à gauche de ton espace de travail *GDevelop* pour sauvegarder ton projet.
