@@ -51,6 +51,9 @@ Crée un nouvel événement :
 
 ### ➜ Actions
 - Clique sur **Autres actions** puis **Variables** puis *Changer la valeur de la variable*
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/67_Changer_variable.png" alt="Score" width="700"/>
+
 - Ajoute **1** à la variable `Score`
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/75_Ajout_score.png" alt="Score" width="700"/>
