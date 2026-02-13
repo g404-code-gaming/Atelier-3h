@@ -20,7 +20,7 @@
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/67_Changer_variable.png" alt="Score" width="700"/>
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/68_Ajout variable.png" alt="Score" width="700"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/68_Ajout_variable.png" alt="Score" width="700"/>
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/69_Score.png" alt="Score" width="700"/>
 
