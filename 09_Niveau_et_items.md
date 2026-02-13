@@ -24,13 +24,13 @@ Maintenant qu’on maîtrise les bases, on va créer un **vrai niveau**.
 
 ## ？ Que faire si votre personnage passe derrière le décor ?
 
-Si votre **Dino** passe derrière le décor dans une zone de votre niveau, il faudra changer sa position sur l'axe *Z* dans les propriétés de l'objet sur la scène à droite : 
+Si ton **Dino** passe derrière le décor dans une zone de votre niveau, il faudra changer sa position sur l'axe *Z* dans les propriétés de l'objet sur la scène à droite : 
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/109_Dino_Z.png" alt="Niveau" width="700"/>
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/110_Dino_Z.png" alt="Niveau" width="700"/>
 
-N'hésitez pas à mettre un très grand chiffre pour ne plus rencontrer ce souci.
+N'hésite pas à mettre un très grand chiffre pour ne plus rencontrer ce souci.
 
 ---
 
@@ -38,10 +38,10 @@ N'hésitez pas à mettre un très grand chiffre pour ne plus rencontrer ce souci
 
 ## ➕ Ajouter l’objet
 
-1️⃣ Ajouter un nouvel objet  
-2️⃣ Rechercher **chicken leg**  
+1️⃣ Ajoute un nouvel objet  
+2️⃣ Recherche **chicken leg**  
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/64_Chicken.png" alt="chicken" width="700"/>
 
-3️⃣ L’ajouter à la scène  
-4️⃣ En placer plusieurs dans le niveau  
+3️⃣ Ajoute-le à la scène  
+4️⃣ Places-en plusieurs dans le niveau  
