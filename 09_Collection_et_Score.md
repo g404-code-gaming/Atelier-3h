@@ -94,15 +94,15 @@ Crée un nouvel événement :
 
 1️⃣ Crée un nouveau **calque** en cliquant sur l'icône `Calque` en haut à droite  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/83_Icone_calques.png" alt="Score" width="400"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/83_Icone_calques.png" alt="Score" width="300"/>
 
-2️⃣ Clique sur **+** et nomme le calque : `UI`  
+2️⃣ Dans la section qui est apparue, clique sur **+** en haut à droite et nomme le nouveau calque `UI`  
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/84_Ajout_calque.png" alt="Score" width="700"/>
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/85_UI.png" alt="Score" width="700"/>
 
-3️⃣ Place `ScoreText` sur ce calque à gauche dans les propriétés de l'objet sur la scène 
+3️⃣ Place `ScoreText` sur ce calque UI dans la partie gauche de ton espace de travail GDevelop (dans les propriétés de l'objet sur la scène)
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/86_Selection_texte.png" alt="Score" width="700"/>
 
@@ -125,15 +125,19 @@ Crée un événement :
 - Clique sur l'objet `Texte` à gauche puis sur l'action `Texte`au milieu et modifie le texte de *ScoreText* et met la formule suivante :
 
 ```js  
-"Score : " + ToString(Score)
+"Score: " + ToString(Score)
 ```
 
+*Sélectionne l'objet Texte*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/89_Selection_objet_texte.png" alt="Score" width="700"/>
 
+*Choisis l'action texte*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/90_Action_texte.png" alt="Score" width="700"/>
 
+*A droite, de nouvelles options appraissent*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/91_Option_texte.png" alt="Score" width="700"/>
 
+*Dans la champ valeur met la formule "Score: " + ToString(Score)*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/92_Copie_code.png" alt="Score" width="700"/>
 
 👉 Le score s’affiche en temps réel.
