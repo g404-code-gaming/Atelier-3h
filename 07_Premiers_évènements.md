@@ -68,19 +68,19 @@ En face de notre première condition, nous allons cliquer sur **Ajouter une acti
 - Nous allons **changer l’animation de Dino**
 - Nom de l’animation : `walk`
 
-*À gauche, nous cliquons sur notre personnage*
+*À gauche, nous cliquons sur notre personnage*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/47_Action_Dino.png" alt="Évènement" width="600"/>
 
-*Au centre, nous cliquons sur Animation (par nom)*
+*Au centre, nous cliquons sur Animation (par nom)*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/48_Animation.png" alt="Évènement" width="600"/>
 
-*À droite, nous cliquons sur la liste d'animation*
+*À droite, nous cliquons sur la liste d'animation*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/49_Liste.png" alt="Évènement" width="600"/>
 
-*Nous sélectionnons Walk*
+*Nous sélectionnons Walk*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/50_Walk.png" alt="Évènement" width="600"/>
 
-*On valide avec Ok*
+*On valide avec Ok*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/52_Ok.png" alt="Évènement" width="600"/>
 
 Nous obtenons notre **action** :
@@ -91,13 +91,13 @@ Ajouter une seconde action :
 - **Inverser l’objet horizontalement**
 - Mettre sur : **Oui**
 
-*À gauche, nous cliquons sur notre personnage*
+*À gauche, nous cliquons sur notre personnage*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/47_Action_Dino.png" alt="Évènement" width="600"/>
 
-*Au centre, nous cliquons sur Inverser l'affichage de l'objet horizontalement*
+*Au centre, nous cliquons sur Inverser l'affichage de l'objet horizontalement*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/54_Inverser.png" alt="Évènement" width="600"/>
 
-*À droite, nous cliquons sur Oui*
+*À droite, nous cliquons sur Oui*  
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/55_Oui.png" alt="Évènement" width="600"/>
 
 👉 Dino regarde vers la gauche quand il marche à gauche.
