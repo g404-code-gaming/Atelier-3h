@@ -10,9 +10,10 @@ On va maintenant structurer proprement notre jeu avec un **niveau 1** et un **é
 
 1️⃣ Dans le gestionnaire de scènes (bouton Menu en haut à gauche)
 2️⃣ Clique droit sur **Scène sans titre**  
-3️⃣ Renomme-la :  *niveau 1*
+3️⃣ Renomme-la *niveau 1*. Ta scène va se fermer, c'est normal, tu as juste à double-cliquer sur *niveau 1* pour le rouvrir.  
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/121_Ajout_scene.png" alt="fin" width="500"/>
+
 
 ---
 
