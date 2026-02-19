@@ -8,7 +8,7 @@ On va maintenant structurer proprement notre jeu avec un **niveau 1** et un **é
 
 ## ✏️ Renommer la scène principale
 
-1️⃣ Dans le gestionnaire de scènes  
+1️⃣ Dans le gestionnaire de scènes (bouton Menu en haut à gauche)
 2️⃣ Clique droit sur **Scène sans titre**  
 3️⃣ Renomme-la :  *niveau 1*
 
