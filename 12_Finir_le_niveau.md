@@ -34,7 +34,7 @@ On va maintenant structurer proprement notre jeu avec un **niveau 1** et un **é
 
 ## ➕ Placer la porte
 
-- Ajouter un objet **Porte** dans ton *niveau1*  
+- Ajouter un objet **Porte** dans ton *niveau 1*  
 - La placer sur une plateforme en fin de niveau
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/118_Porte.png" alt="fin" width="800"/>
