@@ -51,7 +51,7 @@ Dans les **événements de "niveau 1"**, ajouter :
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/119_Collision_porte.png" alt="fin" width="800"/>
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/120_verification_score.png" alt="fin" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/120_Verification_score.png" alt="fin" width="800"/>
 
 ### ➜ Actions
 
