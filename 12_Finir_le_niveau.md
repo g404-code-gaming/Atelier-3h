@@ -43,7 +43,7 @@ On va maintenant structurer proprement notre jeu avec un **niveau 1** et un **é
 
 ## 🎯 Condition pour terminer le niveau
 
-Dans les **événements de "niveau 1"**, ajouter :
+Dans les **événements de "niveau 1"**, ajoute :
 
 ### ➜ Conditions
 
