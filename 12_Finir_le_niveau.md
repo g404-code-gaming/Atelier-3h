@@ -36,7 +36,7 @@ On va maintenant structurer proprement notre jeu avec un **niveau 1** et un **é
 - Ajouter un objet **Porte**
 - La placer sur une plateforme en fin de niveau
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/128_Porte.png" alt="fin" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/118_Porte.png" alt="fin" width="800"/>
 
 ---
 
@@ -62,7 +62,7 @@ Dans les **événements de "niveau 1"**, ajouter :
 
 👉 La porte ne fonctionne que si tous les objets ont été collectés.  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/124_Bloc_fin_code.png" alt="fin" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/124_Bloc_code_fin.png" alt="fin" width="800"/>
 
 ---
 
