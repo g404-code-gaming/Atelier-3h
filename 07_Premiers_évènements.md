@@ -159,7 +159,7 @@ Ajouter une seconde action :
 
 ### Sauvegarder
 
-Pensez à sauvegarder votre projet en cliquant sur la **disquette**
+Pense à sauvegarder ton projet en cliquant sur la **disquette**
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/19_Sauvegarder.png" alt="Évènement" width="400"/>
 
