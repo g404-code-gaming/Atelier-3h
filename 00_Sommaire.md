@@ -46,3 +46,21 @@ Les bases de GDevelop pour les ateliers distanciel de 3h
 ## Gestion du score
 
 <a href="https://github.com/g404-code-gaming/Atelier-3h/blob/main/11_Ajouter_un_ennemi.md" target="_blank">Voir les consignes</a>
+
+## Ajouter un ennemi
+
+<a href="https://github.com/g404-code-gaming/Atelier-3h/blob/main/11_Ajouter_un_ennemi.md" target="_blank">Voir les consignes</a>
+
+## Finir le jeu
+
+<a href="https://github.com/g404-code-gaming/Atelier-3h/blob/main/12_Finir_le_niveau.md" target="_blank">Voir les consignes</a>
+
+
+## Bonus 
+
+Ajouter des sons ou déplacer son ennemi
+
+<a href="https://github.com/g404-code-gaming/Atelier-3h/blob/main/13_Petits_bonus_Partie_1.md" target="_blank">Partie #1</a>
+
+<a href="https://github.com/g404-code-gaming/Atelier-3h/blob/main/14_Petits_bonus_Partie_2.md" target="_blank">Partie #2</a>
+
