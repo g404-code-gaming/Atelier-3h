@@ -95,7 +95,7 @@ Ouvre la scène **fin**.
 2️⃣ Mets le texte du bouton *Rejouer*
 3️⃣ Place-le sous le texte
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/131_Bouton.png" alt="fin" width="500"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/131_Bouton.png" alt="fin" width="800"/>
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/132_Scene.png" alt="fin" width="800"/>
 
