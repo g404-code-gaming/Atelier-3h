@@ -122,6 +122,14 @@ Dans les **événements de la scène "fin"**, ajoute :
 
 ---
 
+### Sauvegarder
+
+Pensez à sauvegarder votre projet en cliquant sur la **disquette**
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/19_Sauvegarder.png" alt="Évènement" width="400"/>
+
+---  
+
 # ✅ Résultat final
 
 Tu as maintenant :
