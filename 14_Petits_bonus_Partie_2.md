@@ -17,7 +17,7 @@ Pour que ton ennemi sache où s’arrêter, tu dois placer deux repères invisib
 
 ## ➕ Crée les objets limites
 
-1️⃣ Clique sur **Ajouter un nouvel objet**  
+1️⃣ Clique sur **Ajouter un nouvel objet**  dans le *Magasin de ressources*  
 2️⃣ Choisis les objets **Right_arrow_round_button** et **Left_arrow_round_button**   
 3️⃣ Ajoute-les à la scène  
 
