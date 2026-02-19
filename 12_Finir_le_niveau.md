@@ -18,7 +18,7 @@ On va maintenant structurer proprement notre jeu avec un **niveau 1** et un **é
 
 ## ➕ Ajouter une seconde scène
 
-1️⃣ Clique sur **Ajouter une scène**
+1️⃣ Clique sur **Ajouter une scène**  
 2️⃣ Nomme-la *fin*
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/122_Ajout_scene_detail.png" alt="fin" width="500"/>
@@ -72,9 +72,9 @@ Ouvre la scène **fin**.
 
 ## ➕ Ajouter un texte
 
-1️⃣ Ajoute un objet **Texte**
-2️⃣ Écris par exemple *Bravo !* avec une taille de 50px
-3️⃣ Place-le au centre de la scène
+1️⃣ Ajoute un objet **Texte**  
+2️⃣ Écris par exemple *Bravo !* avec une taille de 50px  
+3️⃣ Place-le au centre de la scène  
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/130_Texte.png" alt="fin" width="800"/>
 
