@@ -61,3 +61,11 @@ Ajoute comme seconde condition : *Dino* est **En train de tomber**
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/117_Code_tomber.png" alt="Ennemi" width="900"/>
 
 👉 Comme dans un vrai jeu de plateforme 😉
+
+---
+
+### Sauvegarder
+
+Pense à sauvegarder ton projet en cliquant sur la **disquette**
+
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/19_Sauvegarder.png" alt="Évènement" width="400"/>
