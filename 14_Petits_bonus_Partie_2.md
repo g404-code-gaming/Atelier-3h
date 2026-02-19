@@ -21,9 +21,9 @@ Pour que ton ennemi sache où s’arrêter, tu dois placer deux repères invisib
 2️⃣ Choisis les objets **Right_arrow_round_button** et **Left_arrow_round_button**   
 3️⃣ Ajoute-les à la scène  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/141_Ajout_fleche.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/141_Ajout_fleche.png" alt="Ennemi" width="700"/>
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/142_Ajout_fleche.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/142_Ajout_fleche.png" alt="Ennemi" width="700"/>
 
 ---
 
@@ -31,9 +31,9 @@ Pour que ton ennemi sache où s’arrêter, tu dois placer deux repères invisib
 
 Tu ne veux pas que le joueur voie ces blocs. On va donc les **cacher** au lancement de la scène.  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/144_Cacher.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/144_Cacher.png" alt="Ennemi" width="700"/>
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/145_Code_cacher.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/145_Code_cacher.png" alt="Ennemi" width="900"/>
 
 ---
 
@@ -41,7 +41,7 @@ Tu ne veux pas que le joueur voie ces blocs. On va donc les **cacher** au lancem
 
 Dans la scène, place les objets *flèches* autour de la plateforme de l'ennemi comme sur le schèma suivant - **Zombie_Boy** devra se trouver entre ces deux limites.
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/143_Placement.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/143_Placement.png" alt="Ennemi" width="500"/>
 
 ---
 
@@ -50,16 +50,16 @@ Dans la scène, place les objets *flèches* autour de la plateforme de l'ennemi 
 Maintenant, tu vas donner une information à ton ennemi : sa direction actuelle.
 
 1️⃣ Double-clique à droite sur l’objet **Zombie_Boy**  
-2️⃣ Va dans l'onglet **Variables**
-3️⃣ Ajoute une variable d’objet `direction` qui est un texte et met *"right"* en valeur  
+2️⃣ Va dans l'onglet **Variables**  
+3️⃣ Clique sur *Ajouter une variable* et ajoute une variable d’objet `direction` qui est un texte et met *"right"* en valeur  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/146_Variable_direction.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/146_Variable_direction.png" alt="Ennemi" width="900"/>
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/147_Options_variable.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/147_Options_variable.png" alt="Ennemi" width="900"/>
 
 Ajoute ensuite dans le bloc *Au lancement de la scène* l'action de la variable comme suit : 
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/152_Depart.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/152_Depart.png" alt="Ennemi" width="900"/>
 
 Au départ, ton ennemi partira vers la droite.
 
@@ -92,11 +92,11 @@ Dans Ajouter une action, cherche *Appliquer une force (avec angle)*
   - Vitesse : 100px
   - Instantané : Oui
  
-  <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/150_Options_force.png" alt="Ennemi" width="500"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/150_Options_force.png" alt="Ennemi" width="500"/>
 
 Ainsi, tant que la variable vaut `"right"`, ton ennemi avance vers la droite.
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/148_Condition_variable.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/148_Condition_variable.png" alt="Ennemi" width="900"/>
 
 ---
 
@@ -119,7 +119,7 @@ Dans Ajouter une action, cherche *Appliquer une force (avec angle)*
 
 Ton ennemi avance maintenant vers la gauche quand la variable change.
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/151_Forces.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/151_Forces.png" alt="Ennemi" width="900"/>
 
 ---
 
@@ -143,7 +143,7 @@ Crée un événement :
 - Inverse horizontalement l’ennemi = Oui  
 - Ajoute l'animation par nom de **Zombie_Boy** à `Walk`  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/154_Left.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/154_Left.png" alt="Ennemi" width="900"/>
 
 Dès qu’il touche la limite droite, il repart vers la gauche.
 
@@ -164,7 +164,7 @@ Crée un autre événement :
 - Inverse horizontalement l’ennemi = Non  
 - - Ajoute l'animation par nom de **Zombie_Boy** à `Walk`  
 
-<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/155_Right.png" alt="Ennemi" width="800"/>
+<img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/155_Right.png" alt="Ennemi" width="900"/>
 
 Il repart alors vers la droite.
 
