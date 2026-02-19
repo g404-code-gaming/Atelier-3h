@@ -46,8 +46,8 @@ Dans les **événements de "niveau 1"**, ajouter :
 
 ### ➜ Conditions
 
-- Dino est en collision avec **Porte**
-- Variable `Score` = nombre total de *Chicken Leg* du niveau
+- **Dino** est en collision avec **Porte**
+- Change la valeur de la variable `Score` et définit la au nombre total de *Chicken Leg* du niveau
 
 <img src="https://sebastien-devos.fr/img/codegaming/atelier-decouverte/119_Collision_porte.png" alt="fin" width="800"/>
 
